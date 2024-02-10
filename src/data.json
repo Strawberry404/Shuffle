@@ -1,0 +1,56 @@
+{
+    "Names": [
+        "Taouil Fatima ezzahrae",
+        "hind Soulaimani",
+        "salma zitan", 
+        "salma nouali", 
+        "meriem", 
+        "douaa Ardchir ", 
+        "imane akherssou ", 
+        "malak Soulhi", 
+        "barae Saadoun"
+    ],
+    "Topics": [
+        {
+            "title": "Accessible and Safe Public Spaces",
+            "description": "Develop technology-driven solutions that ensure that public spaces within cities are accessible and safe for women and girls, addressing issues like lighting, security, and transportation."
+        },
+        {
+            "title": "Urban Mobility",
+            "description": "Create intelligent transportation systems that provide equitable access to transportation options, reduce emissions, and cater to the specific needs of women and diverse populations."
+        },
+        {
+            "title": "Climate-Resilient Infrastructure",
+            "description": "Innovate urban infrastructure designs and technologies that withstand the challenges posed by climate change, with a particular focus on how these improvements can positively impact gender dynamics."
+        },
+        {
+            "title": "Waste Management and Sustainability",
+            "description": "Develop smart solutions for efficient waste management and recycling that promote environmental sustainability and empower women through income-generating opportunities."
+        },
+        {
+            "title": "Climate Education and Awareness in Cities",
+            "description": "Create apps or campaigns that educate urban residents about climate change, its impacts on the city, and how gender-specific issues are addressed within the urban climate context."
+        },
+        {
+            "title": "Urban Green Spaces",
+            "description": "Enhance access to and maintenance of urban green spaces that contribute to climate resilience and improve the overall quality of life for women and communities."
+        },
+        {
+            "title": "Affordable Housing",
+            "description": "Address affordable and sustainable housing solutions that are inclusive, energy-efficient, and designed to meet the specific needs of women and their families."
+        },
+        {
+            "title": "Disaster Preparedness",
+            "description": "Challenge participants to develop solutions that enhance urban disaster preparedness, including early warning systems, evacuation plans, and disaster shelters designed to be inclusive and safe for women and vulnerable populations."
+        },
+        {
+            "title": "Emergency Response Technologies",
+            "description": "Promote the creation of technologies that improve emergency response during and after natural disasters, ensuring the protection and support of all urban residents, especially women and children."
+        },
+        {
+            "title": "Interdisciplinary Disaster Resilience",
+            "description": "Promote interdisciplinary collaboration among STEM professionals, social scientists, and urban planners to create holistic solutions that address natural disaster risks while considering gender equality, climate action, and urban sustainability."
+        }
+    ]
+    
+}
